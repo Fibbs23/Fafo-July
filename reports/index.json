@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260701-184501-9ep7",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "dateStart": "2026-07-02T00:45:01.000Z",
+      "dateEnd": "2026-07-02T01:09:06.000Z",
+      "dateLabel": "7/1/2026, 6:45:01 PM - 7/1/2026, 7:09:06 PM",
+      "url": "https://Fibbs23.github.io/Fafo-July/?report=20260701-184501-9ep7",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260705-181130-x6wd",
       "title": "Lightspeed Jack",
       "commanders": [
