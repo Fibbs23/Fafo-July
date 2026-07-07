@@ -1,0 +1,35 @@
+{
+  "colorPalette": "rose-pink",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260705-181130-x6wd",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-07-06T00:11:30.000Z",
+      "dateEnd": "2026-07-06T01:29:53.000Z",
+      "dateLabel": "7/5/2026, 6:11:30 PM - 7/5/2026, 7:29:53 PM",
+      "url": "https://Fibbs23.github.io/Fafo-July/?report=20260705-181130-x6wd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 41
+      }
+    }
+  ]
+}
